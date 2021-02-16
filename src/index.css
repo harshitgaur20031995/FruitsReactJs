@@ -1,0 +1,50 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+
+.bold{
+  border: 3px solid black;
+}
+
+.mt-n1{
+  margin-top: -20px;
+  border-radius: 10px;
+}
+
+.green-background{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwx4Ultndf_AmDk2UiDylaKVbf6ni5jVPtQ&usqp=CAU');
+  background-color: #37ee0a; /* Used if the image is unavailable */
+  height: 200px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+
+}
+
+.yellow-background{
+  background-image: url('https://image.freepik.com/free-photo/elevated-view-artificial-green-leaves-halved-passion-fruits-yellow-background_23-2148153940.jpg');
+
+  background-color: #ebe70c; /* Used if the image is unavailable */
+  height: 200px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+}
